@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Test Automation"
+  short_description: "Record, execute, version, and report web tests."
+  default_prompt: "Use $web-test-automation to record and execute a role-based web test case."
